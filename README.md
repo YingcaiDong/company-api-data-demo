@@ -12,6 +12,7 @@ If you haven't install maven, don't worry, in your terminal
 If you already installed maven, you can jump to the following steps:
 In the terinal, dirct to the project directory
 > $ mvn clean install
+
 Then you can find your jar file within the target directory.
 
 # Running the spring boot app
